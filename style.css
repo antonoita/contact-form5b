@@ -1,0 +1,43 @@
+
+body{
+}
+form 
+{
+margin-top: 50px;
+transition: all 4s ease-in-out; 
+}
+.form-control{
+width: 600px;
+background: transparent;
+border: none;
+outline: none;
+border-bottom: 2px solid green;
+color: maroon;
+font-size: 35px; 
+margin-bottom:20px;
+}
+input{
+height:45px;
+} 
+form .submit{
+background: blue;
+border-color: transparent;
+color: orange;
+font-size: 20px;
+font-weight: bold;
+letter-spacing: 2px;
+height: 50px;
+margin-top: 20px;
+}
+form .submit:hover{
+background-color: red;
+cursor: pointer;
+}
+
+
+.contact-title{
+margin-top: 100px;
+color: blue;
+text-transform: uppercase; 
+transition: all 4s ease-in-out;
+}
